@@ -4,4 +4,5 @@
   (lib (name "DCJ200-10-A-XX-K_REVA")(type "KiCad")(uri "C:/Users/benja/OneDrive/Escritorio/carpetas/librerias/DCJ200-10-A-XX-K_REVA/DCJ200-10-A-XX-K_REVA.kicad_sym")(options "")(descr ""))
   (lib (name "DS1302")(type "KiCad")(uri "C:/Users/benja/OneDrive/Escritorio/carpetas/librerias/DS1302/DS1302.kicad_sym")(options "")(descr ""))
   (lib (name "RB141C1100")(type "KiCad")(uri "C:/Users/benja/OneDrive/Escritorio/carpetas/librerias/RB141C1100/RB141C1100.kicad_sym")(options "")(descr ""))
+  (lib (name "usb")(type "KiCad")(uri "C:/Users/benja/OneDrive/Escritorio/carpetas/librerias/USB-A1HSW6/USB-A1HSW6.kicad_sym")(options "")(descr ""))
 )
